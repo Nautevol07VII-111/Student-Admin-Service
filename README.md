@@ -1,6 +1,6 @@
 # Student Management System
 
-A full-stack student management application built with Spring Boot backend and React frontend.
+A full-stack student management application built with a Spring Boot backend and React frontend.
 
 ## Project Overview
 
